@@ -1,3 +1,3 @@
 ### School Leaving Exam
 
-This respository consists of all pass paper exercises solutions.
+This respository consists solutions to all pass paper exercises.
